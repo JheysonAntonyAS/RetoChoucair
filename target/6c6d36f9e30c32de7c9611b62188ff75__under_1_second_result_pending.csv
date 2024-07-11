@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Realizar compra","Como usuario quiero realizar una compra","PENDING","2024-07-10T16:52:53.3600167-05:00[America/Lima]","0.0","0.55"
+"Iniciar sesion","probar que inicie sesion","PENDING","2024-07-10T14:47:07.4083363-05:00[America/Lima]","0.0","0.37"
+"Validar nombres de productos","El nombre de los productos agregados deberá ser igual que en el carro","PENDING","2024-07-10T18:46:00.0116889-05:00[America/Lima]","0.0","0.31"
